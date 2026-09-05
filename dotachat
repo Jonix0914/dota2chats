@@ -1,0 +1,10 @@
+dotachat/
+│
+├── package.json
+├── server.js
+├── .env
+│
+└── public/
+    ├── index.html
+    ├── style.css
+    └── app.js
